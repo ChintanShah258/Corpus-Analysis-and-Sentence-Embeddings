@@ -5,7 +5,7 @@ Check out our [Report](Corpus analysis and sentence embeddings/Report.pdf)
 
 ## Prerequisite Files:
 * Dataset - the given corpus: [The Atticus dataset of legal contacts](https://zenodo.org/record/4595826#.YyXT6HbMI2w)
-* A text file containing a list of stopwords (to evaluate the lexical density): [`StopWords.txt`](Corpus analysis and sentence embeddings/src/StopWords.txt)
+* A text file containing a list of stopwords (to evaluate the lexical density): [`StopWords.txt`](./src/StopWords.txt)
 * To install all dependencies, run this command with your terminal under `src` and `tests` directories respectively: `pip install -r requirements.txt`
 * Note: All the prerequisite files are placed the archive at `src/` directory.
 ---
